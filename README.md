@@ -11,9 +11,6 @@ I'm a 20-year-old with a passion for coding and a diverse skill set in Python, J
 ![](https://github-readme-stats.vercel.app/api?username=xSaille&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xSaille&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### 😂 Random Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=xSaille&icon=0&color=4)](https://visitcount.itsvg.in)
 
