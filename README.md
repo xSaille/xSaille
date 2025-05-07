@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-I'm a 20-year-old with a passion for coding and a diverse skill set in Python, Java, and PHP. I love diving into new projects and exploring the limitless world of software development. 
+I'm a 21-year-old with a passion for coding and a diverse skill set in Python, Java, and PHP. I love diving into new projects and exploring the limitless world of software development and artificial intelligence. 
 
 
 
